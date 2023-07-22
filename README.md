@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋Hi, I'm Jhansi
 <!---#Hi There, I'm Jhansi 👋--->
-**An Enthusiastic Web Developer currrently looking for new oportunities**<br>🌱 I'm currently learning **Django**<br>👯‍♀️ I'm looking to collabrate on **Web Application Projects**<br>💬 Ask me about **Problem solving,web development**<br>📫 Reach me at **jhansich1527@gmail.com**<br>⚡ Fun fact **Beats of Creativity 🎵💡**<br>
-
+**An Enthusiastic Web Developer currrently looking for new oportunities**<br><br>🌱 I'm currently learning **Django**<br><br>👯‍♀️ I'm looking to collabrate on **Web Application Projects**<br>💬 Ask me about **Problem solving,web development**<br>📫 Reach me at **jhansich1527@gmail.com**<br>⚡ Fun fact **Beats of Creativity 🎵💡**<br>
 <!---When faced with coding challenges, I turn to my favorite tunes for inspiration. The beats of creativity keep me motivated, helping me find innovative solutions to complex problems.--->
 
 
